@@ -1,4 +1,6 @@
-# Black Death Project
+(Logo.png)
+# 5990M: Introduction to Programming for Geographical Information Analysis - Core Skills
+## Assignment 2: The Black Death Project
 ------------------------------------
 This project focuses upon the Great Plague of London in 1665. 
 
