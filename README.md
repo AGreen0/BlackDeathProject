@@ -1,4 +1,4 @@
-![Uni Logo] (LeedsLogo.png)
+(Logo.png)
 # 5990M: Introduction to Programming for Geographical Information Analysis - Core Skills
 ## Assignment 2: The Black Death Project
 ------------------------------------
